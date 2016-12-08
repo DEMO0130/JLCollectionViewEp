@@ -3,7 +3,7 @@
 
 ## CollectionView 组成
 
-[效果图](./JLCollectionViewEp.png)
+![效果图](./JLCollectionViewEp.png)
 
 * Cell                -- 绿色区块
 * Section Header View -- 浅灰色区块
