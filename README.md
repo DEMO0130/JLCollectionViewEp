@@ -3,7 +3,7 @@
 
 ## CollectionView 组成
 
-![效果图](./JLCollectionViewEp.png)
+![效果图](./JLCollectionViewEpPic.png)
 
 *蓝色为整个CollectionView的背景色*
 
