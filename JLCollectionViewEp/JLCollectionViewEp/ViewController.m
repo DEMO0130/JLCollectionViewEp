@@ -122,7 +122,7 @@ UICollectionViewDataSource
             UICollectionView *collection = [[UICollectionView alloc] initWithFrame:self.view.bounds
                                                               collectionViewLayout:[[JLFlowLayout alloc] init]];
             
-            collection.backgroundColor = [UIColor clearColor];
+            collection.backgroundColor = [UIColor blueColor];
             collection.delegate = self;
             collection.dataSource = self;
             collection.contentInset = UIEdgeInsetsMake(50, 10, 0, 10);
